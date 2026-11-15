@@ -1,5 +1,5 @@
-// Configuration for static deployment
-// Wisp WebSocket server URL
-// Using Mercury Workshop's public Wisp server
+// Option 1: Mercury Workshop's official demo server (highly recommended)
+window.WISP_URL = "wss://wisp.mercurywork.shop/";
 
-window.WISP_URL = "wss://glseries.net/wisp/";
+// Option 2: Another known public server
+// window.WISP_URL = "wss://wispserver.dev/wisp/";
