@@ -4,7 +4,7 @@ async function initBootstrap() {
 		transport: "epoxy",
 		swPath: "sw.js",
 		wispPath: "/wisp/",
-		epoxyClientPath: "clients/epoxy-client.js",
+		epoxyClientPath: "https://cdn.jsdelivr.net/npm/@mercuryworkshop/epoxy-tls@2.1.19-1/epoxy-client.js",
 		libcurlClientPath: "clients/libcurl-client.js",
 		bareClientPath: "clients/bare-client.js",
 		bootstrapInitPath: "bootstrap-init.js",
