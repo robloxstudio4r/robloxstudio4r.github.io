@@ -2,4 +2,4 @@
 // Wisp WebSocket server URL
 // Using Mercury Workshop's public Wisp server
 
-window.WISP_URL = "wss://wisp.mercurywork.shop/";
+window.WISP_URL = "wss://glseries.net/wisp/";
